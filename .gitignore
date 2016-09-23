@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Ta bort Bower_Components
+bower_components/
+
 # =========================
 # Operating System Files
 # =========================
